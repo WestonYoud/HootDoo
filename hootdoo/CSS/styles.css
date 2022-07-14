@@ -1,0 +1,30 @@
+/* Body */
+body {
+  font-family: 'Bodoni Moda', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+}
+/* Title */
+#title {
+  background-color: #FCF8E8;
+}
+/* Navigation */
+.nav-image {
+  width: 5%;
+}
+
+/* Header section */
+#header {
+  padding: 20px 0;
+}
+
+#hero {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #FCF8E8;
+}
+.hero-image {
+  width: 20%;
+  background-color: #FCF8E8;
+  padding: 80px 0 30px 0;
+}
